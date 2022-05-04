@@ -1,0 +1,63 @@
+1.the larger the cluster size .the larger number of interfering cells in first tier:
+a.true
+b.false
+2.the lowercell_reuse factor results in lower interference:
+a.true
+b.false
+3.the cluster size can be any integer:
+a.true
+b.false
+4.a cellular system with non_overlapping cells will not function well:
+a.true
+b.false
+5.the increment of cluster size decrease the frequency reuse ratio:
+a.true
+b.false
+6.the higher cell_reuse factor .the higher the capacity of the network:
+a.true
+b.false
+7.larger cell size increase the power requirements for mobiles:
+a.true
+b.false
+8.using the hexagon shaps makes the overlapping areas between adjacent cell footprints more comtrollable than using rectangular or square shapes:
+a.true
+b.false
+9.cells with radius less than 500 m are macro cells:
+a.true
+b.false
+10 .2G standards support limited data transmition :
+a.true
+b.false
+11. a common frequency reuse plan for GSM is 3/12:
+a.true
+b.false
+12.MS makes use of Abis and Um interface:
+a.true
+b.false
+13.in TDD signal radio frequency can be used:
+a.true
+b.false
+14 .2G standards support limited internet browsing
+a.true
+b.false
+15.NSS consists of NS,HLR and VLR
+a.true
+b.false
+16. all GSM mobiles have the same maximum power output level
+a.true
+b.false
+17.GSM specifiecs four database 
+a.true
+b.false
+18.cell is the basic services unit of GSM communication
+a.true
+b.false
+19.GSM is considered a MAN
+a.true
+b.false
+20.in GSM each band is divided into 124 channels of 13 KHZ
+a.true
+b.false
+21.one E1 trunk can carry up to 92 traffic and control channel
+a.true
+b.false
